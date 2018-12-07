@@ -1,4 +1,3 @@
-4. Marcel Worring, Dennis Koelma, Jan Zahálka. Multimedia Pivot Tables for Multimedia Analytics on Image Collections, IEEE Transactions on Multimedia , 2016. [[Paper]](https://ieeexplore.ieee.org/abstract/document/7579240)# Awesome Data Visualization
 
 A reading list of resources dedicated to Multimedia Data Visualization.
 
