@@ -1,2 +1,0 @@
-# Awesome Data Visualization
-ddd
