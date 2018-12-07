@@ -1,2 +1,2 @@
-# awesome-data-visualization
+# Awesome Data Visualization
 Awesome Data Visualization
