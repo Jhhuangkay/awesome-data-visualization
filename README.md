@@ -25,3 +25,15 @@ A reading list of resources dedicated to Multimedia Data Visualization.
 9. Ichiro IDE, Hiroshi MO, Norio KATAYAMA, and Shin’ichi Satoh. Topic threading for structuring a large-scale news video archive, International Conference on Image and Video Retrieval, 2004. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-540-27814-6_18)
 
 10. Ichiro IDE, Ye Zhang, Ryunosuke Tanishige, Keisuke Doman, Yasutomo Kawanishi, Daisuke Deguchi and Hiroshi Murase. Summarization of News Videos Considering the Consistency of Auditory and Visual Contents, IEEE International Symposium on Multimedia (ISM), 2017. [[Paper]](https://ieeexplore.ieee.org/document/8241599)
+
+11. Ichiro IDE, Tomoyoshi Kinoshita, Tomokazu Takahashi, Hiroshi Mo, Norio Katayama, Shin'ichi Satoh, Hiroshi Murase. Efficient Tracking of News Topics Based on Chronological Semantic Structures in a Large-Scale News Video Archive, IEICE Transactions, 2012. [[Paper]](https://pdfs.semanticscholar.org/8046/f02b344ed8f700591ddb44f9c9842825cb85.pdf?_ga=2.103957000.924792512.1548083381-1884175352.1544621100)
+
+12. Ichiro IDE, Tomoyoshi Kinoshita, Tomokazu Takahashi, Hiroshi Mo, Norio Katayama, Shin'ichi Satoh, Hiroshi Murase. Exploiting the Chronological Semantic Structure in a Large-scale Broadcast News Video Archive for its Efficient Exploration, Proceedings of the Second APSIPA Annual Summit and Conference, 2010 [[Paper]](http://toriwaki.nuie.nagoya-u.ac.jp/~ide/res/paper/E10-conference-ide-3pub.pdf)
+
+13. Zheng Lu, Kristen Grauman. Story-Driven Summarization for Egocentric Video, IEEE Conference on Computer Vision and Pattern Recognition, 2013 [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6619194)
+
+14. M.A. Smith , T. Kanade. Video skimming and characterization through the combination of image and language understanding techniques, IEEE Conference on Computer Vision and Pattern Recognition, 2002 [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6619194)
+
+15. Masoud Mazloom†,  Robert Rietveld,  Stevan Rudinac, Marcel Worring,  Willemijn van Dolen. Multimodal Popularity Prediction of Brand-related Social Media Posts, ACM international conference on Multimedia, 2016 [[Paper]](https://staff.science.uva.nl/m.mazloom/Papers/mazloom-ACM-MM-2016.pdf)
+
+16. Tat-Seng Chua, Nicolas Diaz-Ferreyra, Gerald Friedland, Tatjana Gornostaja, Benoit Huet, Rianne Kaptein, Krister Lindén, Marie-Francine Moens, Jaakko Peltonen, Miriam Redi, Markus Schedl, David A. Shamma, Alan Smeaton, Lexing Xie. Rethinking Summarization and Storytelling for Modern Social Multimedia, International Conference on Multimedia Modeling, 2018 [[Paper]](https://link.springer.com/chapter/10.1007/978-3-319-73603-7_51)
