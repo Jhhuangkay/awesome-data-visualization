@@ -37,3 +37,13 @@ A reading list of resources dedicated to Multimedia Data Visualization.
 15. Masoud Mazloom†,  Robert Rietveld,  Stevan Rudinac, Marcel Worring,  Willemijn van Dolen. Multimodal Popularity Prediction of Brand-related Social Media Posts, ACM international conference on Multimedia, 2016 [[Paper]](https://staff.science.uva.nl/m.mazloom/Papers/mazloom-ACM-MM-2016.pdf)
 
 16. Tat-Seng Chua, Nicolas Diaz-Ferreyra, Gerald Friedland, Tatjana Gornostaja, Benoit Huet, Rianne Kaptein, Krister Lindén, Marie-Francine Moens, Jaakko Peltonen, Miriam Redi, Markus Schedl, David A. Shamma, Alan Smeaton, Lexing Xie. Rethinking Summarization and Storytelling for Modern Social Multimedia, International Conference on Multimedia Modeling, 2018 [[Paper]](https://link.springer.com/chapter/10.1007/978-3-319-73603-7_51)
+
+17. Kaiyang Zhou, Yu Qiao, Tao Xiang. Deep Reinforcement Learning for Unsupervised Video Summarization with Diversity-Representativeness Reward, Conference on The Association for the Advancement of Artificial Intelligence (AAAI), 2018 [[Paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/download/16395/16358)
+
+18. SHOGO KUMAGAI, KEISUKE DOMAN, TOMOKAZU TAKAHASHI, DAISUKE DEGUCHI, ICHIRO IDE and HIROSHI MURASE. SPEECH SHOT EXTRACTION FROM BROADCAST NEWS VIDEOS, International Journal of Semantic Computing, 2012 [[Paper]](https://www.worldscientific.com/doi/abs/10.1142/S1793351X12400077)
+
+19. Alan F. Smeaton, Paul Over, Wessel Kraaij. Evaluation Campaigns and TRECVid, ACM international workshop on Multimedia information retrieval, 2006 [[Paper]](http://delivery.acm.org/10.1145/1180000/1178722/p321-smeaton.pdf?ip=146.50.28.28&id=1178722&acc=ACTIVE%20SERVICE&key=0C390721DC3021FF%2E86041C471C98F6DA%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1548268708_09fa940aeb966312afef1280ce844703)
+
+
+
+
