@@ -44,6 +44,9 @@ A reading list of resources dedicated to Multimedia Data Visualization.
 
 19. Alan F. Smeaton, Paul Over, Wessel Kraaij. Evaluation Campaigns and TRECVid, ACM international workshop on Multimedia information retrieval, 2006 [[Paper]](http://delivery.acm.org/10.1145/1180000/1178722/p321-smeaton.pdf?ip=146.50.28.28&id=1178722&acc=ACTIVE%20SERVICE&key=0C390721DC3021FF%2E86041C471C98F6DA%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1548268708_09fa940aeb966312afef1280ce844703)
 
+20. Ichiro IDE, Hiroshi MO, Norio KATAYAMA, Shin’ichi SATOH. Topic-Based Structuring of a Very Large-Scale News Video Corpus, Conference on The Association for the Advancement of Artificial Intelligence (AAAI), 2003 [[Paper]](https://www.aaai.org/Papers/Symposia/Spring/2003/SS-03-08/SS03-08-011.pdf)
 
+21. Ming-yu Chen, Michael Christel, Alexander Hauptmann, and Howard Wactlar. Putting Active Learning into Multimedia Applications: Dynamic Definition and Refinement of Concept Classifiers, ACM Multimedia, 2005 [[Paper]](https://www.cs.cmu.edu/~hdw/acmm05_f514-hauptmann.pdf)
 
+22. Yale Song, Jordi Vallmitjana, Amanda Stent, Alejandro Jaimes. TVSum: Summarizing Web Videos Using Titles, IEEE Conference on Computer Vision and Pattern Recognition, 2015 [[Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Song_TVSum_Summarizing_Web_2015_CVPR_paper.pdf)
 
