@@ -50,3 +50,20 @@ A reading list of resources dedicated to Multimedia Data Visualization.
 
 22. Yale Song, Jordi Vallmitjana, Amanda Stent, Alejandro Jaimes. TVSum: Summarizing Web Videos Using Titles, IEEE Conference on Computer Vision and Pattern Recognition, 2015 [[Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Song_TVSum_Summarizing_Web_2015_CVPR_paper.pdf)
 
+23. Sheng Li, Zhiqiang Tao, Kang Li, Yun Fu. Visual to Text: Survey of Image and Video Captioning, IEEE Transactions on Emerging Topics in Computational Intelligence, 2019 [[Paper]](https://ieeexplore.ieee.org/abstract/document/8627985/authors#authors)
+
+24. Xinhui Song, Ke Chen, Jie Lei, Li Sun, Zhiyuan Wang, Lei Xie, Mingli Song. Category driven deep recurrent neural network for video summarization, IEEE International Conference on Multimedia & Expo Workshops (ICMEW), 2016 [[Paper]](https://ieeexplore.ieee.org/abstract/document/7574720)
+
+25. Ke Zhang, Wei-Lun Chao, Fei Sha, Kristen Grauman. Video Summarization with Long Short-Term Memory, IEEE Conference on European Conference on Computer Vision, 2016 [[Paper]](https://link.springer.com/chapter/10.1007/978-3-319-46478-7_47)
+
+26. Huijuan Xu, Boyang Li, Vasili Ramanishka, Leonid Sigal, Kate Saenko. Joint Event Detection and Description in Continuous Video Streams, IEEE Winter Applications of Computer Vision Workshops (WACVW), 2019 [[Paper]](https://ieeexplore.ieee.org/abstract/document/8638336)
+
+27. Bor-Chun Chen, Yan-Ying Chen, Francine Chen. TVSum: Summarizing Web Videos Using Titles, The British Machine Vision Conference (BMVC), 2017 [[Paper]](http://bcsiriuschen.github.io/pdf/bmvc17video.pdf)
+
+28. Ranjay Krishna, Kenji Hata, Frederic Ren, Li Fei-Fei, Juan Carlos Niebles. Dense-Captioning Events in Videos, IEEE International Conference on Computer Vision (ICCV), 2017 [[Paper]](http://openaccess.thecvf.com/content_iccv_2017/html/Krishna_Dense-Captioning_Events_in_ICCV_2017_paper.html)
+
+29. Xu Lan, Hanxiao Wang, Shaogang Gong, Xiatian Zhu. Deep Reinforcement Learning Attention Selection for Person Re-Identification, The British Machine Vision Conference (BMVC), 2017 [[Paper]](http://www.eecs.qmul.ac.uk/~sgg/papers/LanEtAl_2017BMVC.pdf)
+
+30. JAKUB LOKOČ, GREGOR KOVALČÍK, BERND MÜNZER, KLAUS SCHÖFFMANN, WERNER BAILER, RALPH GASSER, STEFANOS VROCHIDIS, PHUONG ANH NGUYEN, SITAPA RUJIKIETGUMJORN, KAI UWE BARTHEL. Interactive Search or Sequential Browsing? A Detailed Analysis of the Video Browser Showdown 2018, ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), 2019 [[Paper]](https://dl.acm.org/citation.cfm?id=3295663)
+
+
